@@ -1,0 +1,6 @@
+[
+    {"time_sec": 60, "command": "LED RED ON"},
+    {"time_sec": 61, "command": "LED RED OFF"},
+    {"time_sec": 120, "command": "LED BLUE ON"},
+    {"time_sec": 121, "command": "LED BLUE OFF"}
+]
